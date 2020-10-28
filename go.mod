@@ -41,7 +41,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.1
 	github.com/olivere/elastic v6.2.21+incompatible
-	github.com/olivere/elastic/v7 v7.0.21 // indirect
+	github.com/olivere/elastic/v7 v7.0.21
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/otiai10/copy v1.1.1
 	github.com/pborman/uuid v0.0.0-20180906182336-adf5a7427709
